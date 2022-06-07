@@ -1,16 +1,13 @@
-﻿using Player_Profile.Enum;
+﻿using Player_Profile.Data.Enum;
+using Player_Profile.Data.Interface;
+using Player_Profile.Enum;
 
 namespace Player_Profile.Models
 {
-    public class FootballPlayer : Player
+    public class FootballPlayer : Player, IFootballPlayer
     {
-        public override int PlayerId { get; set; }
-        public override string PhotoUrlPath { get; set; }
-        public override string Name { get; set; }
-        public override Gender Gender { get; set; }
-        public override int Age { get; set; }
-        public override Country Country { get; set; }
-        public override string Achievement { get; set; }
-        public override bool? IsRetired { get; set; }
+        public FootballTeam Team { get ; set ; }
+        public int GoalScore { get; set; }
+        public string AchievementInFootball { get; set; }
     }
 }

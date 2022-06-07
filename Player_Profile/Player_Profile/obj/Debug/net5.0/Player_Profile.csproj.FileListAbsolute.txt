@@ -51,7 +51,6 @@ D:\Repository\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\
 D:\Repository\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.TagHelpers.input.cache
 D:\Repository\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.TagHelpers.output.cache
 D:\Repository\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.RazorCoreGenerate.cache
-D:\Repository\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 D:\Repository\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\Repository\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\Repository\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
@@ -65,3 +64,71 @@ D:\Repository\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\
 D:\Repository\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.pdb
 D:\Repository\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.genruntimeconfig.cache
 D:\Repository\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\ref\Player_Profile.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\appsettings.Development.json
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\appsettings.json
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Player_Profile.exe
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Player_Profile.deps.json
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Player_Profile.runtimeconfig.json
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Player_Profile.runtimeconfig.dev.json
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Player_Profile.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Player_Profile.pdb
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Player_Profile.Views.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Player_Profile.Views.pdb
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Humanizer.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.csproj.AssemblyReference.cache
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.GeneratedMSBuildEditorConfig.editorconfig
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.AssemblyInfoInputs.cache
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.AssemblyInfo.cs
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.csproj.CoreCompileInputs.cache
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.MvcApplicationPartsAssemblyInfo.cache
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.RazorAssemblyInfo.cache
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.RazorAssemblyInfo.cs
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\scopedcss\bundle\Player_Profile.styles.css
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\staticwebassets\Player_Profile.StaticWebAssets.Manifest.cache
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.TagHelpers.input.cache
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.TagHelpers.output.cache
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.RazorCoreGenerate.cache
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.RazorTargetAssemblyInfo.cache
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.RazorTargetAssemblyInfo.cs
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.Views.pdb
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.csproj.CopyComplete
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\refint\Player_Profile.dll
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.pdb
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.genruntimeconfig.cache
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\ref\Player_Profile.dll
+D:\Repository\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Razor\Views\CricketPlayer\Index.cshtml.g.cs
