@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Imtiaz Faisal\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Imtiaz Faisal\\.nuget\\packages"
+      "C:\\Users\\ETL-DEV\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ETL-DEV\\.nuget\\packages"
     ]
   }
 }

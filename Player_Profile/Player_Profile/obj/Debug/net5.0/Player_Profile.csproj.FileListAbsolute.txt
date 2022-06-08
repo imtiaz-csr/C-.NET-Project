@@ -117,7 +117,6 @@ F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\o
 F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.TagHelpers.input.cache
 F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.TagHelpers.output.cache
 F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.RazorCoreGenerate.cache
-F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
@@ -132,3 +131,4 @@ F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\o
 F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Player_Profile.genruntimeconfig.cache
 F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\ref\Player_Profile.dll
 D:\Repository\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Razor\Views\CricketPlayer\Index.cshtml.g.cs
+F:\Imtiaz Faisal\Repositories\CSharp.NET-Project\Player_Profile\Player_Profile\obj\Debug\net5.0\Razor\Views\CricketPlayer\Index.cshtml.g.cs

@@ -49,7 +49,7 @@ namespace Player_Profile
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=CricketPlayer}/{action=Index}/{id?}");
             });
         }
     }

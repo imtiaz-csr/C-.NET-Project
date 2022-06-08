@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repository\\CSharp.NET-Project\\Player_Profile\\Player_Profile\\Player_Profile.csproj": {}
+    "F:\\Imtiaz Faisal\\Repositories\\CSharp.NET-Project\\Player_Profile\\Player_Profile\\Player_Profile.csproj": {}
   },
   "projects": {
-    "D:\\Repository\\CSharp.NET-Project\\Player_Profile\\Player_Profile\\Player_Profile.csproj": {
+    "F:\\Imtiaz Faisal\\Repositories\\CSharp.NET-Project\\Player_Profile\\Player_Profile\\Player_Profile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repository\\CSharp.NET-Project\\Player_Profile\\Player_Profile\\Player_Profile.csproj",
+        "projectUniqueName": "F:\\Imtiaz Faisal\\Repositories\\CSharp.NET-Project\\Player_Profile\\Player_Profile\\Player_Profile.csproj",
         "projectName": "Player_Profile",
-        "projectPath": "D:\\Repository\\CSharp.NET-Project\\Player_Profile\\Player_Profile\\Player_Profile.csproj",
-        "packagesPath": "C:\\Users\\Imtiaz Faisal\\.nuget\\packages\\",
-        "outputPath": "D:\\Repository\\CSharp.NET-Project\\Player_Profile\\Player_Profile\\obj\\",
+        "projectPath": "F:\\Imtiaz Faisal\\Repositories\\CSharp.NET-Project\\Player_Profile\\Player_Profile\\Player_Profile.csproj",
+        "packagesPath": "C:\\Users\\ETL-DEV\\.nuget\\packages\\",
+        "outputPath": "F:\\Imtiaz Faisal\\Repositories\\CSharp.NET-Project\\Player_Profile\\Player_Profile\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Imtiaz Faisal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ETL-DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,6 +81,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
